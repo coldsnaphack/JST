@@ -1,2 +1,2 @@
 # JST
-Javascript Tagalog 
+Javascript Files
