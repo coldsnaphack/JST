@@ -1,2 +1,0 @@
-# JST
-Javascript Files
